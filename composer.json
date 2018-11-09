@@ -1,0 +1,14 @@
+{
+  "require": {
+    "monolog/monolog": "1.0.*"
+  },
+
+  "autoload": {
+    "psr-4": {
+      "src\\darren\\": "src/",
+      "project\\darren\\": "project"
+    },
+    "files":["common/Darren.php", "common/Since.php"],
+    "classmap":["lib"]
+  }
+}
