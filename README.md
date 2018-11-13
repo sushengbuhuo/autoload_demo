@@ -1,2 +1,2 @@
 # autoload_demo
-PHP 自动加载例子
+PHP 自动加载demo
